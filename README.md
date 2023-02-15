@@ -16,8 +16,4 @@ Aplicação AspNet MVC + SqlServer
 * Modifique a connectionstring na classe SqlServerConfiguration
 
 ## Projeto em execução no HOST:
-<<<<<<< HEAD
 * [http://wilitch-001-site1.atempurl.com/](http://wilitch-001-site1.atempurl.com/)
-=======
-* [http://wilitch-001-site1.atempurl.com/](http://wilitch-001-site1.atempurl.com/)
->>>>>>> 257f0faa2a7f39e3a06ecebfb74fcd9d056c40bc

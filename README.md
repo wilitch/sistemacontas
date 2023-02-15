@@ -12,8 +12,8 @@ Aplicação AspNet MVC + SqlServer
 
 ## Passos para execução:
 * Crie um banco de dados local do SqlServer
-* Execute o arquivo [a relative link](script.sql)
+* Execute o arquivo [script.sql](script.sql)
 * Modifique a connectionstring na classe SqlServerConfiguration
 
 ## Projeto em execução no HOST:
-* [a link](http://wilitch-001-site1.atempurl.com/)
+* [[a link](http://wilitch-001-site1.atempurl.com/)](http://wilitch-001-site1.atempurl.com/)
